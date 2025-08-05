@@ -8,7 +8,7 @@
 ### Tagline: **"Intelligent Hard Work"**
 
 ### Core Mission
-Complex projects need someone who gets things moving. We spark fundamental transformation in organizations through strategic project leadership and intelligent execution.
+Complex projects need someone who gets things moving. I go first, so leaders can go forward. Creating momentum through strategic leadership, intelligent execution, and the courage to take action when others hesitate.
 
 ## Brand Positioning
 
@@ -26,9 +26,12 @@ Complex projects need someone who gets things moving. We spark fundamental trans
 ## Target Audience
 
 ### Primary Customer
-**Business leaders (VPs) at large Nordic/Finnish companies** facing complex, business-critical projects that are:
+**"This is for leaders who believe the best strategies emerge from action, not analysis"**
+
+**Business leaders (VPs) at large Nordic/Finnish companies** who are action-oriented but trapped in analysis-required systems, facing complex, business-critical projects that are:
 - Poorly defined but highly important
-- Stalled or struggling with internal resources
+- Stalled despite extensive analysis and planning
+- Too complex or novel for traditional consulting approaches
 - Requiring both strategic thinking and execution capability
 
 ### Customer Profile
@@ -39,11 +42,12 @@ Complex projects need someone who gets things moving. We spark fundamental trans
 
 ## Competitive Differentiation
 
-### vs. Large Consulting Firms (CGI, TietoEvry, etc.)
-- **More agile and focused** vs. their bureaucratic processes
-- **Human-centered approach** vs. rigid frameworks
-- **Direct access to expertise** vs. layers of project managers
-- **Outcome-focused** vs. process-focused
+### vs. Large Consulting Firms (McKinsey, Deloitte, CGI, TietoEvry, etc.)
+- **Action-first leadership** vs. analysis paralysis and six-month diagnostic phases
+- **Framework-fluent, not framework-driven** vs. rigid methodology application
+- **I go first** vs. layers of junior consultants and project managers
+- **Big transformation, small bureaucracy** vs. governance committees and 200-slide decks
+- **Conjure momentum** vs. deliver framework-based best practice
 
 ### vs. Small Consultancies (1-10 people)
 - **Proven track record** at major Finnish organizations (F-Secure, Neste, Posti)
@@ -53,23 +57,27 @@ Complex projects need someone who gets things moving. We spark fundamental trans
 
 ## Value Propositions
 
-### 1. "We redefine what consultancy means"
-Not bureaucratic processes or generic frameworks. Real progress on your most challenging initiatives. Human-centered transformation that sticks.
+### 1. "I go first, so leaders can go forward"
+While others deliver analysis and plans, I take action to create momentum. Whatever it takes - analysis, communication, difficult conversations - I lead by example so internal leaders can build on that foundation.
 
 ### 2. "When others see problems, we see possibilities"
 Complex, poorly-defined, business-critical projects are exactly where we thrive. Bringing clarity, momentum, and results to what seemed impossible.
 
-### 3. "The future belongs to those who prepare today"
+### 3. "Framework-fluent, not framework-driven"
+Deep strategic literacy across Playing to Win, Porter, Lean, Agile, and modern change management. But frameworks serve the situation, not the other way around. Intelligence applied with craftsman-level judgment.
+
+### 4. "The future belongs to those who prepare today"
 AI and rapid change demand new approaches to strategy, product thinking, and organizational agility. We help you stay ahead of the curve.
 
 ## Brand Personality
 
 ### Core Traits
+- **Courageous**: Goes first when others hesitate
 - **Intelligent**: Strategic thinking meets practical execution
 - **Energetic**: Creates momentum and drives progress
 - **Sophisticated**: Nordic professionalism with substance
 - **Human-centered**: People and relationships matter
-- **Future-oriented**: Technology-forward without being cold
+- **Framework-fluent**: Deep strategic literacy applied with judgment
 - **Results-driven**: Outcomes over activity
 
 ### Brand Voice
@@ -81,13 +89,17 @@ AI and rapid change demand new approaches to strategy, product thinking, and org
 ## Messaging Framework
 
 ### Primary Message
-"Complex projects need someone who gets things moving"
+"I go first, so leaders can go forward"
+
+### Core Antipositioning
+"While others deliver analysis and plans, I conjure momentum"
 
 ### Supporting Messages
+- "Framework-fluent, not framework-driven"
+- "Big transformation, small bureaucracy"
 - "25 years leading strategic transformations at Finland's most demanding organizations"
-- "Making progress every day in complex settings"
-- "Real progress on your most challenging initiatives"
-- "Bringing clarity, momentum, and results to what seemed impossible"
+- "Whatever it takes to create momentum - analysis, communication, action - then you run with it"
+- "When others see problems, we see possibilities"
 
 ### Proof Points
 - **25+ years** in software industry
